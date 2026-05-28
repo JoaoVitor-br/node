@@ -1,0 +1,6 @@
+.certo{
+    color: green;
+}
+.errado{
+    color: red;
+}
